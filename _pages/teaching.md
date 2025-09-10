@@ -1,26 +1,33 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
 ---
 
-### Current Courses
+### University
+#### University of Illinois at Urbana-Champaign
 
-**Fall 2025: Introduction to Computer Science**
-*   **Role:** Instructor
-*   **Description:** An introductory course for first-year undergraduate students covering fundamental programming concepts.
-*   **Materials:** [Course Website](https://your-course-website.com)
+**Spring 2021: Numerical Methods (CS 357)**
+*   **Role:** Course Assistant
+*   **Description:** Assisted students with homework, guided group activities, and monitored a Q&A forum for an upper level undergraduate course on the fundamentals of numerical methods.
+<!-- *   **Materials:** [Course Website](https://your-course-website.com) -->
 
-### Past Courses
-
-**Spring 2024: Data Structures and Algorithms**
+**Spring 2021: Mechatronics (SE 423)**
 *   **Role:** Teaching Assistant
-*   **Description:** An undergraduate course focused on efficient data structures and algorithms.
-*   **Materials:** [GitHub Repository](https://github.com/your-repo)
+*   **Description:** Held lab office hours and developed new class projects using a TI C2000 microcontroller for an upper level undergraduate and graduate course on mechatronics.
+<!-- *   **Materials:** [GitHub Repository](https://github.com/your-repo) -->
 
-**Fall 2023: Introduction to Machine Learning**
-*   **Role:** Teaching Assistant
-*   **Description:** A graduate-level course covering core concepts of machine learning.
+
+### High School
+#### Crimson Global Academy
+
+**Fall 2023: Introduction to Artificial Intelligence**
+*   **Role:** Teacher
+*   **Description:** Taught multiple classes of an introductory AI course remotely to high school level students from across the world.
+
+**Fall 2023: Physics**
+*   **Role:** Teacher
+*   **Description:** Taught multiple classes of physics remotely to high school level students from across the world.
