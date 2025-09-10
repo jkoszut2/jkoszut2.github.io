@@ -7,6 +7,20 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Current Courses
 
-Organize your courses by years, topics, or universities, however you like!
+**Fall 2025: Introduction to Computer Science**
+*   **Role:** Instructor
+*   **Description:** An introductory course for first-year undergraduate students covering fundamental programming concepts.
+*   **Materials:** [Course Website](https://your-course-website.com)
+
+### Past Courses
+
+**Spring 2024: Data Structures and Algorithms**
+*   **Role:** Teaching Assistant
+*   **Description:** An undergraduate course focused on efficient data structures and algorithms.
+*   **Materials:** [GitHub Repository](https://github.com/your-repo)
+
+**Fall 2023: Introduction to Machine Learning**
+*   **Role:** Teaching Assistant
+*   **Description:** A graduate-level course covering core concepts of machine learning.
