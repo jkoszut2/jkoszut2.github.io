@@ -2,14 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: headshot_cropped.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>123 office number</p>
     <p>77 Massachusetts Ave</p>
     <p>Cambridge, MA 02139</p>
 
@@ -22,13 +20,11 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com).
+I am a first-year PhD student in the Mechanical Engineering department at the Massachusetts Institute of Technology (MIT) advised by Professor Jean-Jacques Slotine. My research interests lie at the intersection of control theory, optimization, and learning with a desire to find provable performance guarantees for real-world safety-critical autonomous systems. Prior to MIT, I received my Bachelor of Science from the University of Illinois at Urbana-Champaign and my Master of Science from the University of California, Berkeley. In between Berkeley and MIT, I spent a short but exciting period of time working at [Red Bull Powertrains](https://www.redbullpowertrains.com/int-en), the first-ever endeavor from the Red Bull Formula 1 team to build its own powertrain for the highest level of motorsport in the world. 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below.
