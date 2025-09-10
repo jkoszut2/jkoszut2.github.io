@@ -7,8 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-### University
-#### University of Illinois at Urbana-Champaign
+### University of Illinois at Urbana-Champaign
 
 **Spring 2021: Numerical Methods (CS 357)**
 *   **Role:** Course Assistant
@@ -21,8 +20,7 @@ nav_order: 6
 <!-- *   **Materials:** [GitHub Repository](https://github.com/your-repo) -->
 
 
-### High School
-#### Crimson Global Academy
+### Crimson Global Academy
 
 **Fall 2023: Introduction to Artificial Intelligence**
 *   **Role:** Teacher
