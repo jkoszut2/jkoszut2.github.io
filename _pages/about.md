@@ -1,15 +1,13 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 
 profile:
   align: right
   image: headshot_cropped.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>77 Massachusetts Ave</p>
-    <p>Cambridge, MA 02139</p>
+  more_info:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
