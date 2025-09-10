@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-09-03 08:00:00-0400
+date: 2025-01-28 08:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Today marks t=0 for my PhD journey!
+I visited the Systems Control and Optimization Laboratory (SYSCOP) in Freiburg, Germany led by Professor Moritz Diehl and gave a talk on my Master's research.
