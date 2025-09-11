@@ -62,9 +62,9 @@ ninja.data = [{
           description: "Details coming soon!",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-formula-1-optimal-energy-management",
+          title: 'Formula 1 Optimal Energy Management',
+          description: "Details coming soon!",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
             },},{id: "projects-formula-sae-co2-emissions-optimization",
@@ -72,9 +72,9 @@ ninja.data = [{
           description: "Optimizing the tradeoff between lap time and CO2 emissions for the UIUC FSAE racecar.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "Coming soon!",
+            },},{id: "projects-mixed-integer-programming-for-traffic-light-aware-route-planning",
+          title: 'Mixed-Integer Programming for Traffic Light Aware Route Planning',
+          description: "Details coming soon!",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project.html";
             },},{
