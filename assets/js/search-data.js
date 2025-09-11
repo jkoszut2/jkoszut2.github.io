@@ -57,9 +57,9 @@ ninja.data = [{
           section: "News",},{id: "news-today-marks-t-0-for-my-phd-journey",
           title: 'Today marks t=0 for my PhD journey!',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-model-predictive-control-for-plug-in-hybrid-energy-management",
+          title: 'Model Predictive Control for Plug-In Hybrid Energy Management',
+          description: "Details coming soon!",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-project-2",
@@ -74,7 +74,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project.html";
             },},{id: "projects-project-4",
           title: 'project 4',
-          description: "another without an image",
+          description: "Coming soon!",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project.html";
             },},{
