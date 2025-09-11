@@ -7,7 +7,7 @@ first_name: Joe
 middle_name:
 last_name: Koszut
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Feel free to reach out to me over email or view my profile on another platform such as GitHub or LinkedIn.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -192,6 +192,7 @@ exclude:
   - _pages/blog.md
   - _pages/dropdown.md
   - _posts/
+  - _pages/repositories.md
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -268,8 +269,8 @@ terser:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Koszut]
+  first_name: [Joe]
 
   style: apa
   locale: en
