@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Formula SAE CO2 Emissions Optimization
+description: Optimizing the tradeoff between lap time and CO2 emissions for the UIUC FSAE racecar.
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://github.com/jkoszut2/FuelConsOpt/wiki
 importance: 3
 category: work
 ---

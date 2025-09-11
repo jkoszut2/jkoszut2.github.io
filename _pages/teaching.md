@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Below is an overview of the courses I have been involved with teaching, spanning from the high school level to the graduate level.
 nav: true
 nav_order: 5
 ---
@@ -18,6 +18,7 @@ nav_order: 5
 *   **Role:** Teaching Assistant
 *   **Description:** Held lab office hours and developed new class projects using a TI C2000 microcontroller for an upper level undergraduate and graduate course on mechatronics.
 <!-- *   **Materials:** [GitHub Repository](https://github.com/your-repo) -->
+
 
 
 ### Crimson Global Academy
