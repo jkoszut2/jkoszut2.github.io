@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: Coming soon!
-img:
-importance: 3
-category: extracurriculars
+title: Mixed-Integer Programming for Traffic Light Aware Route Planning
+description: Details coming soon!
+img: assets/img/9.jpg
+importance: 2
+category: classes
 ---
 
 Every project has a beautiful feature showcase page.

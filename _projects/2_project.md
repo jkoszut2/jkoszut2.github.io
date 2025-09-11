@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Formula 1 Optimal Energy Management
+description: Details coming soon!
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: other
 giscus_comments: true
 ---
 
