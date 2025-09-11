@@ -19,7 +19,7 @@ nav_order: 5
 *   **Description:** Held lab office hours and developed new class projects using a TI C2000 microcontroller for an upper level undergraduate and graduate course on mechatronics.
 *   **Materials:** [Course Website](https://coecsl.ece.illinois.edu/se423/)
 
-
+  
 
 ### Crimson Global Academy
 
