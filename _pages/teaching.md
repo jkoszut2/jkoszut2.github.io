@@ -12,12 +12,12 @@ nav_order: 5
 **Spring 2021: Numerical Methods (CS 357)**
 *   **Role:** Course Assistant
 *   **Description:** Assisted students with homework, guided group activities, and monitored a Q&A forum for an upper level undergraduate course on the fundamentals of numerical methods.
-<!-- *   **Materials:** [Course Website](https://your-course-website.com) -->
+*   **Materials:** [Course Website](https://courses.grainger.illinois.edu/cs357/sp2021/)
 
 **Spring 2021: Mechatronics (SE 423)**
 *   **Role:** Teaching Assistant
 *   **Description:** Held lab office hours and developed new class projects using a TI C2000 microcontroller for an upper level undergraduate and graduate course on mechatronics.
-<!-- *   **Materials:** [GitHub Repository](https://github.com/your-repo) -->
+*   **Materials:** [Course Website](https://coecsl.ece.illinois.edu/se423/)
 
 
 

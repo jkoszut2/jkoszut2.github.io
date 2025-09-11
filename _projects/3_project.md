@@ -5,7 +5,7 @@ description: Optimizing the tradeoff between lap time and CO2 emissions for the 
 img: assets/img/7.jpg
 redirect: https://github.com/jkoszut2/FuelConsOpt/wiki
 importance: 3
-category: work
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
