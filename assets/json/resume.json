@@ -47,11 +47,22 @@
   ],
   "education": [
     {
+      "institution": "University of California, Berkeley",
+      "location": "Berkeley, California",
+      "url": "",
+      "area": "Systems Engineering",
+      "studyType": "Master of Science",
+      "startDate": "2017-08",
+      "endDate": "2021-05",
+      "score": "",
+      "courses": []
+    },
+    {
       "institution": "University of Illinois at Urbana-Champaign",
       "location": "Urbana, Illinois",
-      "url": "https://www.uzh.ch/",
+      "url": "",
       "area": "Mechanical Engineering",
-      "studyType": "BSc",
+      "studyType": "Bachelor of Science",
       "startDate": "2017-08",
       "endDate": "2021-05",
       "score": "",
