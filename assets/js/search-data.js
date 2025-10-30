@@ -32,16 +32,16 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "A web version of my CV is shown below, but a traditional PDF can also be downloaded by clicking on the PDF icon at the top right!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
+        },{id: "books-title",
+          title: 'Title',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather.html";
+              window.location.href = "/books/example_book.html";
             },},{id: "news-today-is-the-start-of-my-position-working-as-a-calibration-and-controls-engineer-for-red-bull-powertrains",
           title: 'Today is the start of my position working as a Calibration and Controls...',
           description: "",
