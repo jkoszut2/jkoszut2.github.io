@@ -23,6 +23,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year PhD student in the Mechanical Engineering department at the Massachusetts Institute of Technology (MIT) advised by Professor Jean-Jacques Slotine. My research interests lie at the intersection of control theory, optimization, and learning with a desire to find provable performance guarantees for real-world safety-critical autonomous systems.
+I am a first-year PhD student in the Mechanical Engineering department at the Massachusetts Institute of Technology (MIT) advised by Professor Jean-Jacques Slotine. My research interests lie at the intersection of control theory, optimization, and machine learning with a desire to find provable performance guarantees for real-world safety-critical autonomous systems.
 
 Prior to MIT, I received my Bachelor of Science from the University of Illinois at Urbana-Champaign and my Master of Science from the University of California, Berkeley. In between Berkeley and MIT, I spent a short but exciting period of time working at [Red Bull Powertrains](https://www.redbullpowertrains.com/int-en), the first-ever endeavor from the Red Bull Formula 1 team to build its own powertrain for the highest level of motorsport in the world.
