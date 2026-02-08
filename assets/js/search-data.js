@@ -50,26 +50,31 @@ ninja.data = [{
           section: "News",},{id: "news-today-marks-t-0-for-my-phd-journey",
           title: 'Today marks t=0 for my PhD journey!',
           description: "",
-          section: "News",},{id: "projects-model-predictive-control-for-plug-in-hybrid-energy-management",
-          title: 'Model Predictive Control for Plug-In Hybrid Energy Management',
-          description: "Details coming soon!",
+          section: "News",},{id: "projects-loss-landscape-geometry-in-deep-learning",
+          title: 'Loss Landscape Geometry in Deep Learning',
+          description: "An investigation into the geometric properties of the loss landscape in deep neural networks.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "projects-formula-1-optimal-energy-management",
-          title: 'Formula 1 Optimal Energy Management',
-          description: "Details coming soon!",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project.html";
-            },},{id: "projects-formula-sae-co2-emissions-optimization",
-          title: 'Formula SAE CO2 Emissions Optimization',
-          description: "Optimizing the tradeoff between lap time and CO2 emissions for the UIUC FSAE racecar.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project.html";
             },},{id: "projects-mixed-integer-programming-for-traffic-light-aware-route-planning",
           title: 'Mixed-Integer Programming for Traffic Light Aware Route Planning',
           description: "Details coming soon!",
           section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project.html";
+            },},{id: "projects-model-predictive-control-for-plug-in-hybrid-energy-management",
+          title: 'Model Predictive Control for Plug-In Hybrid Energy Management',
+          description: "Details coming soon!",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project.html";
+            },},{id: "projects-formula-sae-co2-emissions-optimization",
+          title: 'Formula SAE CO2 Emissions Optimization',
+          description: "Optimizing the tradeoff between lap time and CO2 emissions for the UIUC FSAE racecar.",
+          section: "Projects",handler: () => {
               window.location.href = "/projects/4_project.html";
+            },},{id: "projects-formula-1-optimal-energy-management",
+          title: 'Formula 1 Optimal Energy Management',
+          description: "Details coming soon!",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project.html";
             },},{
         id: 'social-email',
         title: 'email',
