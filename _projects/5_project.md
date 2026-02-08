@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Formula SAE CO2 Emissions Optimization
-description: Optimizing the tradeoff between lap time and CO2 emissions for the UIUC FSAE racecar.
-img: assets/img/7.jpg
-redirect: https://github.com/jkoszut2/FuelConsOpt/wiki
-importance: 3
+title: Formula 1 Optimal Energy Management
+description: Details coming soon!
+img: assets/img/3.jpg
+importance: 2
 category: other
+giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

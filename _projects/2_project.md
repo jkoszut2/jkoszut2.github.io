@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Formula 1 Optimal Energy Management
+title: Mixed-Integer Programming for Traffic Light Aware Route Planning
 description: Details coming soon!
-img: assets/img/3.jpg
+img: assets/img/9.jpg
 importance: 2
-category: other
-giscus_comments: true
+category: classes
 ---
 
 Every project has a beautiful feature showcase page.
