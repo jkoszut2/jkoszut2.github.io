@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "Projects",
-          description: "A growing collection of your cool projects.",
+          description: "A growing collection of projects across coursework, research, and hobbies.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -55,9 +55,9 @@ ninja.data = [{
           description: "An investigation into the geometric properties of the loss landscape in deep neural networks.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "projects-mixed-integer-programming-for-traffic-light-aware-route-planning",
-          title: 'Mixed-Integer Programming for Traffic Light Aware Route Planning',
-          description: "Details coming soon!",
+            },},{id: "projects-mixed-integer-programming-for-av-velocity-planning",
+          title: 'Mixed-Integer Programming for AV Velocity Planning',
+          description: "Planning energy-efficient velocity profiles with awareness of traffic light timing.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
             },},{id: "projects-model-predictive-control-for-plug-in-hybrid-energy-management",
