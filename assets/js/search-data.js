@@ -75,6 +75,11 @@ ninja.data = [{
           description: "Details coming soon!",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project.html";
+            },},{id: "projects-interior-point-solver-for-conic-programming",
+          title: 'Interior-Point Solver for Conic Programming',
+          description: "A minimal implementation of an interior-point solver with homogeneous self-dual embedding along with the implementation of both Mehrotra&#39;s and Gondzio&#39;s corrector methods.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ipm_solver.html";
             },},{
         id: 'social-email',
         title: 'email',
