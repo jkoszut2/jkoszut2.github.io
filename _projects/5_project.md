@@ -3,7 +3,7 @@ layout: page
 title: Formula 1 Optimal Energy Management
 description: Details coming soon!
 img: assets/img/3.jpg
-importance: 2
+importance: 20
 category: other
 giscus_comments: true
 ---

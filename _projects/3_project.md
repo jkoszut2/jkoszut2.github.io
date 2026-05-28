@@ -3,7 +3,7 @@ layout: page
 title: Model Predictive Control for Plug-In Hybrid Energy Management
 description: Details coming soon!
 img: assets/img/12.jpg
-importance: 2
+importance: 15
 category: research
 related_publications: true
 ---
