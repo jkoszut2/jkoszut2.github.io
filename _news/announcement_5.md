@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-09-03 08:00:00-0400
+date: 2026-06-01 08:00:00-0400
 inline: true
 related_posts: false
 ---
 
-Today marks t=0 for my PhD journey!
+Today I begin my summer internship at Blue Origin in the Lunar Guidance, Navigation, and Control (GNC) team.
